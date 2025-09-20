@@ -2,10 +2,10 @@
 Blue and TER scores in Python
 
 
-USE:
+User's Guide:
 
-python scores.py maquine_translation.txt human_translation.txt results.txt
+python scores.py machine_translation.txt human_translation.txt results.txt
 
 Both texts must have the same number of lines.
 
-Both texts must be formatted in UTF-8.
+Both txt files must be formatted in UTF-8.
